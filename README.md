@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashish Maurya</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47pn5ecpet91uxd84arii1fzeckhjvgzw30ll5d25x&ep=v1_gifs_search&rid=giphy.gif&ct=g"
+<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fprogrammers&psig=AOvVaw0it1AytH2iImTq7nHOS8JI&ust=1698998308363000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIDKp4bspIIDFQAAAAAdAAAAABAZ"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishmaurya73&label=Profile%20views&color=0e75b6&style=flat" alt="ashishmaurya73" /> </p>
 
